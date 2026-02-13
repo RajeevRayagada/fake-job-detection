@@ -1,0 +1,12 @@
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore virtual environments (if you have them)
+venv/
+env/
+.env
+
+# (Optional) If your dataset is huge (>100MB), uncomment the next line
+# fake_job_postings.csv

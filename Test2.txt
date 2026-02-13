@@ -1,0 +1,17 @@
+Job Title: Junior Software Engineer
+
+Description:
+TechSolutions Inc. is looking for a Junior Software Engineer to join our development team in New York. The ideal candidate will assist in developing scalable web applications using Python and JavaScript. You will work closely with senior developers to troubleshoot and debug code.
+
+Requirements:
+
+Bachelor’s degree in Computer Science or related field.
+
+Proficiency in Python, Java, or C++.
+
+Basic understanding of SQL and databases.
+
+Strong problem-solving skills and ability to work in a team.
+
+Benefits:
+Health insurance, 401(k) matching, and paid time off.
