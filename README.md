@@ -3,7 +3,7 @@
 A Machine Learning-powered web application that detects fraudulent job postings in real-time. Built with Python, Scikit-Learn, and Streamlit.
 
 ## 🚀 Live Demo
-**[Insert Link to Streamlit App Here later]**
+https://fake-job-detectio-m2ewf6ifneqe4zpwssfaxd.streamlit.app/
 
 ## 🛠️ Tech Stack
 * **Frontend:** Streamlit
