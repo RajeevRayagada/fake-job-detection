@@ -4,7 +4,7 @@ import numpy as np
 
 # 1. Load the trained model and vectorizer
 # (These files were created by the notebook you just ran)
-model = joblib.load('fake_job_model.pkl')
+model = joblib.load('fake_job_model_svm.pkl')
 vectorizer = joblib.load('tfidf_vectorizer.pkl')
 
 # 2. Configure the page
